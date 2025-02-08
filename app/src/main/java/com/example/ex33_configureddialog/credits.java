@@ -59,6 +59,7 @@ public class credits extends AppCompatActivity {
      * @param item the menu item that was selected
      * @return true if the item selection was handled, false otherwise
      */
+
     @Override
     public boolean onOptionsItemSelected(@Nullable MenuItem item) {
         int id = item.getItemId();
